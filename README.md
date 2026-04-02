@@ -12,5 +12,5 @@ The recommended order is as follows:
 
 Note the below notebooks are only necessary for students interested:
 - FSCI396_SurveyValidation
-- FSCI396_StructuralEquationModelling
 - FSCI396_PartialCorrelations
+- FSCI396_StructuralEquationModelling
