@@ -11,8 +11,6 @@ The recommended order is as follows:
 5. FSCI396_Regression
 
 Note the below notebooks are only necessary for students interested:
-FSCI396_SurveyValidation
-FSCI396_StructuralEquationModelling
-
-Soon to be uploaded for interest: 
-FSCI396_PartialCorrelations
+- FSCI396_SurveyValidation
+- FSCI396_StructuralEquationModelling
+- FSCI396_PartialCorrelations
